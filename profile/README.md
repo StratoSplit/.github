@@ -23,13 +23,13 @@ nn377@nau.edu
 
 ## Repositories
 
-**StratoSplit Website**
+**StratoSplit Website:**
 https://github.com/StratoSplit/StratoSplit-Website
 
-**.github**
+**Github Front page:**
 https://github.com/StratoSplit/.github
 
 
-
-
-*Repository for technical demonstration. Proof of Concept*
+<br><br>
+---
+*Repository is for technical demonstration only. Proof of Concept.*
