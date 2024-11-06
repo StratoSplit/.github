@@ -30,6 +30,6 @@ https://github.com/StratoSplit/StratoSplit-Website
 https://github.com/StratoSplit/.github
 
 
-<br><br>
+
 ---
 *Repository is for technical demonstration only. Proof of Concept.*
